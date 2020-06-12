@@ -1,0 +1,42 @@
+<resValidateFakturPm>
+<kdJenisTransaksi>01</kdJenisTransaksi>
+<fgPengganti>0</fgPengganti>
+<nomorFaktur>0031845841003</nomorFaktur>
+<tanggalFaktur>20/07/2018</tanggalFaktur>
+<npwpPenjual>210315057424000</npwpPenjual>
+<namaPenjual>CV MAKMUR MANDIRI</namaPenjual>
+<alamatPenjual>BATUNUNGGAL ELOK II NO.53, MENGGER , KOTA BANDUNG</alamatPenjual>
+<npwpLawanTransaksi>312054992423000</npwpLawanTransaksi>
+<namaLawanTransaksi>PT. SETIABUDHI JAYA ABADI</namaLawanTransaksi>
+<alamatLawanTransaksi>
+JL. Setiabudhi No. 46 Hegarmanah-Cidadap Kota Bandung-Jawa Barat 40142 BANDUNG
+</alamatLawanTransaksi>
+<jumlahDpp>841800</jumlahDpp>
+<jumlahPpn>84180</jumlahPpn>
+<jumlahPpnBm>0</jumlahPpnBm>
+<statusApproval>Faktur Valid, Sudah Diapprove oleh DJP</statusApproval>
+<statusFaktur>Faktur Pajak Normal</statusFaktur>
+<referensi>FP-1807357</referensi>
+<detailTransaksi>
+<nama>AB TUNA TOMAT PEDAS 24 X 185GR</nama>
+<hargaSatuan>19750</hargaSatuan>
+<jumlahBarang>12</jumlahBarang>
+<hargaTotal>237000</hargaTotal>
+<diskon>0</diskon>
+<dpp>237000</dpp>
+<ppn>23700</ppn>
+<tarifPpnbm>0</tarifPpnbm>
+<ppnbm>0</ppnbm>
+</detailTransaksi>
+<detailTransaksi>
+<nama>AB BAKED BEANS CHEESE (24)</nama>
+<hargaSatuan>302400</hargaSatuan>
+<jumlahBarang>2</jumlahBarang>
+<hargaTotal>604800</hargaTotal>
+<diskon>0</diskon>
+<dpp>604800</dpp>
+<ppn>60480</ppn>
+<tarifPpnbm>0</tarifPpnbm>
+<ppnbm>0</ppnbm>
+</detailTransaksi>
+</resValidateFakturPm>
